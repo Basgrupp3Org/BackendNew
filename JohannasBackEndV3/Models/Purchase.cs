@@ -14,6 +14,6 @@ namespace JohannasBackEndV3.Models
 
         public DateTime Date { get; set; }
 
-      //  public virtual Budget Budget { get; set; }
+        public virtual BudgetCategory BudgetCategory { get; set; }
     }
 }

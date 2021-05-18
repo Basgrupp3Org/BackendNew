@@ -14,5 +14,7 @@ namespace JohannasBackEndV3.Models
         public DateTime EndDate { get; set; }
 
         public virtual User User { get; set; }
+
+        public virtual ICollection<BudgetCategory> BudgetCategories { get; set; }
     }
 }
