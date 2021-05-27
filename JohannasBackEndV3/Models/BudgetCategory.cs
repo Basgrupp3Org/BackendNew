@@ -12,5 +12,10 @@ namespace JohannasBackEndV3.Models
 
         public decimal MaxSpent { get; set; }
         public virtual ICollection<Purchase> Purchases { get; set; }
+
+        //public BudgetCategory()
+        //{
+        //    Purchases = new List<Purchase>();
+        //}
     }
 }
