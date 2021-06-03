@@ -36,18 +36,19 @@ namespace JohannasBackEndV3.Managers
             }
         }
 
-        public void AddCategoryToBudget(AddCategoryToBudgetDTO dto)
+        public void AddCategoryToBudget(string Category, string Budget, decimal MaxSpent)
         {
+            // TODO felhantering ifall c + b inte finns.
             using(var db = new MyDBContext())
             {
-                var c = db.Categories.Where(x => x.Name == dto.Category).FirstOrDefault();
-                var b = db.Budgets.Where(x => x.BudgetName == dto.Budget).FirstOrDefault();
+                var c = db.Categories.Where(x => x.Name == Category).FirstOrDefault();
+                var b = db.Budgets.Where(x => x.BudgetName == Budget).FirstOrDefault();
 
                 var addedCategory = new BudgetCategory
                 {
                     Category = c,
                     Budget = b,
-                    MaxSpent = dto.MaxSpent
+                    MaxSpent = MaxSpent
                 };
 
                 db.BudgetCategories.Add(addedCategory);

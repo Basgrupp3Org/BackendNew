@@ -268,7 +268,6 @@ C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\b
 C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\bin\System.Web.WebPages.Razor.xml
 C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\bin\Antlr3.Runtime.pdb
 C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\obj\Debug\JohannasBackEndV3.csprojAssemblyReference.cache
 C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\obj\Debug\JohannasBackEndV3.Migrations.initial.resources
 C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\obj\Debug\JohannasBackEndV3.Migrations.Second.resources
 C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\obj\Debug\JohannasBackEndV3.Migrations.Third.resources
@@ -277,3 +276,4 @@ C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\o
 C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\obj\Debug\JohannasBackEndV3.csproj.CopyComplete
 C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\obj\Debug\JohannasBackEndV3.dll
 C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\obj\Debug\JohannasBackEndV3.pdb
+C:\Users\kardo\OneDrive\Skrivbord\JohannasBankApp\BackendNew\JohannasBackEndV3\obj\Debug\JohannasBackEndV3.csproj.AssemblyReference.cache
